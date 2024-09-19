@@ -51,6 +51,7 @@ export class HomePage extends BasePage {
   }
   async LogOutaccount() {
     await this.LogOut.click();
+    // hi there 
   }
 }
 
